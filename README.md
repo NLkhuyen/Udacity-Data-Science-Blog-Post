@@ -6,12 +6,39 @@ Github source: Uploaded source is in [Github](https://github.com/NLkhuyen/Udacit
 ## Introduction
 This project (Udacity-Data-Science-Blog-Post) is part of Udacity Data Scientists Nanodegree Program.
 
+### Business Understanding
+
 Base on data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia) i am created a blog spot to see what going on in these countries when sufferd covid 19.
 To see that, this article answerig 4 question:
 1. Situation in 2020 - 2021 in Viet Nam
 2. Situation in 2020 - 2021 in 10 countries
 3. From 2020 to 2021 what country had fastest spread speed
 4. From 2020 to 2021 death situation in 10 countries
+### Data Understanding
+data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
+### Prepare Data
+Wrangle and Clean
+Modeling(optional)
+Fit model
+Validate the model
+### Question 1
+Analyse
+Visualise
+Explain the visualisation
+### Question 2
+Analyse
+Visualise
+Explain the visualisation
+### Question 3
+Analyse
+Visualise
+Explain the visualisation
+### Question 4
+Analyse
+Visualise
+Explain the visualisation
+### Evaluation
+### Findings
 
 ## Attach description
 Udacity blogspot.ipynb Jupyter notebook with analysis, answers to the questions, explanations and visualisations
