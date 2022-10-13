@@ -15,30 +15,20 @@ To see that, this article answerig 4 question:
 3. From 2020 to 2021 what country had fastest spread speed
 4. From 2020 to 2021 death situation in 10 countries
 ### Data Understanding
-data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
+Data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
 ### Prepare Data
-Wrangle and Clean
-Modeling(optional)
-Fit model
-Validate the model
-### Question 1
-Analyse
-Visualise
-Explain the visualisation
-### Question 2
-Analyse
-Visualise
-Explain the visualisation
-### Question 3
-Analyse
-Visualise
-Explain the visualisation
-### Question 4
-Analyse
-Visualise
-Explain the visualisation
-### Evaluation
-### Findings
+Prepare Data by convert all data in csv file
+### Question 1: Situation in 2020 - 2021 in Viet Nam
+ - Filter data by Viet Nam, and group data by date time
+ - Create chart.
+### Question 2: Situation in 2020 - 2021 in 10 countries
+ - Group data by date time.
+ - Create chart.
+### Question 3: From 2020 to 2021 what country had fastest spread speed
+ - Group data by year time.
+ - Filter dataframe by country name and location.
+### Question 4: From 2020 to 2021 death situation in 10 countries
+ - Create column that contain new data base on dataframe by percentage.
 
 ## Attach description
 Udacity blogspot.ipynb Jupyter notebook with analysis, answers to the questions, explanations and visualisations
