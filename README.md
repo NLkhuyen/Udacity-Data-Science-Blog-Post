@@ -18,6 +18,7 @@ To see that, this article answerig 4 question:
 Data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
 ### Prepare Data
 Prepare Data by convert all data in csv file
+I fill the zero value into blank because at early time, there is no data to get for specific.
 ### Question 1: Situation in 2020 - 2021 in Viet Nam
  - Filter data by Viet Nam, and group data by date time
  - Create chart.
