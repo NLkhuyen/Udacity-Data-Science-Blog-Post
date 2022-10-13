@@ -1,6 +1,7 @@
 # Udacity-Data-Science-Blog-Post
 
 Medium Blog Post: I created a medium blog spot and put it in here: [statistics-on-the-situation-of-covid-19](https://medium.com/@anhhoangvu192/statistics-on-the-situation-of-covid-19-in-asia-from-2020-to-2021-6cfc0ffc7c61)
+Github source: Uploaded source is in [Github](https://github.com/NLkhuyen/Udacity-Data-Science-Blog-Post)
 
 ## Introduction
 This project (Udacity-Data-Science-Blog-Post) is part of Udacity Data Scientists Nanodegree Program.
