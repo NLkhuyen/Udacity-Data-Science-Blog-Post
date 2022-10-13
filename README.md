@@ -16,6 +16,8 @@ To see that, this article answerig 4 question:
 4. From 2020 to 2021 death situation in 10 countries
 ### Data Understanding
 Data that collected from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
+### Data credit
+I get data from [data.opendevelopmentmekong.net](https://data.opendevelopmentmekong.net/vi/dataset/covid-19-increasing-in-vietnam-and-14-neighboring-countries-in-asia)
 ### Prepare Data
 Prepare Data by convert all data in csv file
 I fill the zero value into blank because at early time, there is no data to get for specific.
